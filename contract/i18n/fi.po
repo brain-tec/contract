@@ -470,7 +470,7 @@ msgid "Company"
 msgstr "Yritys"
 
 #. module: contract
-#: code:addons/contract/models/contract.py:361
+#: code:addons/contract/models/contract.py:388
 #, python-format
 msgid "Compose Email"
 msgstr "Kirjoita sähköposti"
@@ -711,7 +711,7 @@ msgid "Contract lines"
 msgstr "Sopimusrivit"
 
 #. module: contract
-#: code:addons/contract/models/contract.py:503
+#: code:addons/contract/models/contract.py:530
 #, python-format
 msgid ""
 "Contract manually invoiced: <a href=\"#\" data-oe-model=\"%s\" data-oe-id="
@@ -1189,6 +1189,13 @@ msgid "Main Attachment"
 msgstr "Pääliite"
 
 #. module: contract
+#: model:ir.model.fields,field_description:contract.field_contract_contract__manual_currency_id
+#, fuzzy
+#| msgid "Currency"
+msgid "Manual Currency"
+msgstr "Valuutta"
+
+#. module: contract
 #: model:ir.model.fields,field_description:contract.field_contract_line__manual_renew_needed
 #: model:ir.model.fields,field_description:contract.field_contract_line_wizard__manual_renew_needed
 msgid "Manual renew needed"
@@ -1389,7 +1396,7 @@ msgid "Planned"
 msgstr "Suunniteltu"
 
 #. module: contract
-#: code:addons/contract/models/contract.py:319
+#: code:addons/contract/models/contract.py:346
 #, python-format
 msgid "Please define a %s journal for the company '%s'."
 msgstr "Aseta %s-päiväkirja yritykselle '%s'."
@@ -1712,7 +1719,7 @@ msgid "Technical field for UX purpose."
 msgstr ""
 
 #. module: contract
-#: code:addons/contract/models/contract.py:531
+#: code:addons/contract/models/contract.py:558
 #: model_terms:ir.ui.view,arch_db:contract.contract_contract_form_view
 #: model_terms:ir.ui.view,arch_db:contract.contract_contract_terminate_form_view
 #, fuzzy, python-format
@@ -1924,7 +1931,7 @@ msgid "Year(s)"
 msgstr "Vuotta"
 
 #. module: contract
-#: code:addons/contract/models/contract.py:545
+#: code:addons/contract/models/contract.py:572
 #, python-format
 msgid "You are not allowed to terminate contracts."
 msgstr ""
