@@ -723,7 +723,7 @@ msgid "Contract lines"
 msgstr "Linhas de Contrato"
 
 #. module: contract
-#: code:addons/contract/models/contract.py:530
+#: code:addons/contract/models/contract.py:531
 #, python-format
 msgid ""
 "Contract manually invoiced: <a href=\"#\" data-oe-model=\"%s\" data-oe-id="
@@ -1731,7 +1731,7 @@ msgid "Technical field for UX purpose."
 msgstr ""
 
 #. module: contract
-#: code:addons/contract/models/contract.py:565
+#: code:addons/contract/models/contract.py:566
 #: model_terms:ir.ui.view,arch_db:contract.contract_contract_form_view
 #: model_terms:ir.ui.view,arch_db:contract.contract_contract_terminate_form_view
 #, fuzzy, python-format
@@ -1949,7 +1949,7 @@ msgid "Year(s)"
 msgstr "Ano(s)"
 
 #. module: contract
-#: code:addons/contract/models/contract.py:579
+#: code:addons/contract/models/contract.py:580
 #, python-format
 msgid "You are not allowed to terminate contracts."
 msgstr ""
