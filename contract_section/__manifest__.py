@@ -3,7 +3,7 @@
 
 {
     'name': 'Contracts Management - Add section to invoice lines',
-    'version': '11.0.1.0.0',
+    'version': '11.0.1.0.1',
     'category': 'Contract Management',
     'license': 'AGPL-3',
     'author': "Road-Support, "
@@ -17,6 +17,6 @@
         'views/account_analytic_account.xml',
         'views/account_analytic_contract.xml',
     ],
-    'development_status': 'alpha',
+    'development_status': 'Alpha',
     'installable': True,
 }
