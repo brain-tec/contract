@@ -11,7 +11,7 @@
 
 {
     "name": "Recurring - Contracts Management",
-    "version": "13.0.2.5.0",
+    "version": "13.0.2.6.0",
     "category": "Contract Management",
     "license": "AGPL-3",
     "author": "Tecnativa, ACSONE SA/NV, Odoo Community Association (OCA)",
@@ -29,6 +29,7 @@
         "data/contract_cron.xml",
         "data/contract_renew_cron.xml",
         "data/mail_template.xml",
+        "data/template_mail_notification.xml",
         "data/mail_message_subtype.xml",
         "data/ir_ui_menu.xml",
         "wizards/contract_line_wizard.xml",
