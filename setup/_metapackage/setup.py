@@ -10,6 +10,8 @@ setuptools.setup(
     install_requires=[
         'odoo13-addon-agreement',
         'odoo13-addon-agreement_legal',
+        'odoo13-addon-agreement_maintenance',
+        'odoo13-addon-agreement_rebate',
         'odoo13-addon-agreement_sale',
         'odoo13-addon-agreement_serviceprofile',
         'odoo13-addon-contract',
@@ -19,6 +21,7 @@ setuptools.setup(
         'odoo13-addon-contract_sale',
         'odoo13-addon-contract_variable_qty_timesheet',
         'odoo13-addon-contract_variable_quantity',
+        'odoo13-addon-product_contract',
     ],
     classifiers=[
         'Programming Language :: Python',
