@@ -24,7 +24,7 @@ addon | version | maintainers | summary
 [agreement](agreement/) | 14.0.1.1.0 | [![ygol](https://github.com/ygol.png?size=30px)](https://github.com/ygol) [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Adds an agreement object
 [agreement_account](agreement_account/) | 14.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) | Agreement on invoices
 [agreement_legal](agreement_legal/) | 14.0.2.4.1 | [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) [![ygol](https://github.com/ygol.png?size=30px)](https://github.com/ygol) | Manage Agreements, LOI and Contracts
-[agreement_legal_sale](agreement_legal_sale/) | 14.0.1.0.0 | [![osi-scampbell](https://github.com/osi-scampbell.png?size=30px)](https://github.com/osi-scampbell) [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Create an agreement when the sale order is confirmed
+[agreement_legal_sale](agreement_legal_sale/) | 14.0.1.0.1 | [![osi-scampbell](https://github.com/osi-scampbell.png?size=30px)](https://github.com/osi-scampbell) [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Create an agreement when the sale order is confirmed
 [agreement_maintenance](agreement_maintenance/) | 14.0.1.2.0 | [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Manage maintenance agreements and contracts
 [agreement_mrp](agreement_mrp/) | 14.0.1.0.0 | [![smangukiya](https://github.com/smangukiya.png?size=30px)](https://github.com/smangukiya) [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Link manufacturing orders to an agreement
 [agreement_project](agreement_project/) | 14.0.1.0.0 | [![smangukiya](https://github.com/smangukiya.png?size=30px)](https://github.com/smangukiya) [![ygol](https://github.com/ygol.png?size=30px)](https://github.com/ygol) [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Link projects to an agreement
@@ -33,7 +33,7 @@ addon | version | maintainers | summary
 [agreement_serviceprofile](agreement_serviceprofile/) | 14.0.1.1.0 | [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Adds an Agreement Service Profile object
 [agreement_stock](agreement_stock/) | 14.0.1.0.1 | [![smangukiya](https://github.com/smangukiya.png?size=30px)](https://github.com/smangukiya) [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Link picking to an agreement
 [agreement_tier_validation](agreement_tier_validation/) | 14.0.1.0.1 |  | Extends the functionality of Agreement to support a tier validation process.
-[contract](contract/) | 14.0.2.8.4 |  | Recurring - Contracts Management
+[contract](contract/) | 14.0.2.8.5 |  | Recurring - Contracts Management
 [contract_delivery_zone](contract_delivery_zone/) | 14.0.1.0.0 |  | Allows to remind the delivery zone defined on the partner on contract level.
 [contract_mandate](contract_mandate/) | 14.0.1.0.0 |  | Mandate in contracts and their invoices
 [contract_payment_mode](contract_payment_mode/) | 14.0.1.0.0 |  | Payment mode in contracts and their invoices
