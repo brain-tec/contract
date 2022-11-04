@@ -33,13 +33,14 @@ addon | version | maintainers | summary
 [agreement_serviceprofile](agreement_serviceprofile/) | 14.0.1.1.0 | [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Adds an Agreement Service Profile object
 [agreement_stock](agreement_stock/) | 14.0.1.0.1 | [![smangukiya](https://github.com/smangukiya.png?size=30px)](https://github.com/smangukiya) [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Link picking to an agreement
 [agreement_tier_validation](agreement_tier_validation/) | 14.0.1.0.1 |  | Extends the functionality of Agreement to support a tier validation process.
-[contract](contract/) | 14.0.2.8.5 |  | Recurring - Contracts Management
+[contract](contract/) | 14.0.2.8.6 |  | Recurring - Contracts Management
 [contract_delivery_zone](contract_delivery_zone/) | 14.0.1.0.0 |  | Allows to remind the delivery zone defined on the partner on contract level.
 [contract_mandate](contract_mandate/) | 14.0.1.0.0 |  | Mandate in contracts and their invoices
 [contract_payment_mode](contract_payment_mode/) | 14.0.1.0.0 |  | Payment mode in contracts and their invoices
 [contract_sale](contract_sale/) | 14.0.1.2.0 |  | Contract from Sale
 [contract_sale_generation](contract_sale_generation/) | 14.0.1.0.1 |  | Contracts Management - Recurring Sales
 [contract_sale_tag](contract_sale_tag/) | 14.0.1.0.1 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to transmit contract tags to sale order (through sale_generation)
+[contract_update_last_date_invoiced](contract_update_last_date_invoiced/) | 14.0.1.0.0 |  | This module allows to update the last date invoiced if invoices are deleted.
 [contract_variable_quantity](contract_variable_quantity/) | 14.0.1.0.0 |  | Variable quantity in contract recurrent invoicing
 
 [//]: # (end addons)
