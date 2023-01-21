@@ -5,12 +5,12 @@
 
 {
     'name': 'Contracts Management - Recurring Sales',
-    'version': '12.0.1.0.2',
+    'version': '12.0.1.0.3',
     'category': 'Contract Management',
     'license': 'AGPL-3',
     'author': "PESOL, "
               "Odoo Community Association (OCA)",
-    'website': 'https://github.com/oca/contract',
+    'website': 'https://github.com/OCA/contract',
     'depends': ['contract', 'sale'],
     'data': [
         'data/contract_cron.xml',

@@ -5,7 +5,7 @@
 {
     'name': 'Contract Price Revision',
     'summary': 'Easy revision of contract prices',
-    'version': '12.0.1.0.1',
+    'version': '12.0.1.0.2',
     'category': 'Contract',
     'author': 'Tecnativa, '
               'Odoo Community Association (OCA)',
@@ -19,6 +19,5 @@
         'wizards/contract_price_revision_views.xml',
     ],
     'installable': True,
-    'development_status': 'Production/Stable',
     'maintainers': ['carlosdauden'],
 }

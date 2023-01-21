@@ -5,12 +5,12 @@
 
 {
     'name': 'Variable quantity in contract recurrent invoicing',
-    'version': '12.0.3.1.0',
+    'version': '12.0.3.1.1',
     'category': 'Contract Management',
     'license': 'AGPL-3',
     'author': "Tecnativa,"
               "Odoo Community Association (OCA)",
-    'website': 'https://www.tecnativa.com',
+    'website': 'https://github.com/OCA/contract',
     'depends': ['contract'],
     'data': [
         'security/ir.model.access.csv',

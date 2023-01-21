@@ -9,14 +9,14 @@
 
 {
     'name': 'Recurring - Contracts Management',
-    'version': '12.0.8.6.0',
+    'version': '12.0.8.6.1',
     'category': 'Contract Management',
     'license': 'AGPL-3',
     'author': "OpenERP SA, "
               "Tecnativa, "
               "LasLabs, "
               "Odoo Community Association (OCA)",
-    'website': 'https://github.com/oca/contract',
+    'website': 'https://github.com/OCA/contract',
     'depends': ['base', 'account', 'product', 'portal'],
     "external_dependencies": {"python": ["dateutil"]},
     'data': [

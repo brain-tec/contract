@@ -4,11 +4,11 @@
 {
     'name': 'Agreement Sale',
     'summary': "Agreement on sales",
-    'version': '12.0.1.0.1',
+    'version': '12.0.1.0.2',
     'category': 'Contract',
     'author': 'Akretion, '
               'Odoo Community Association (OCA)',
-    'website': 'https://github.com/oca/contract',
+    'website': 'https://github.com/OCA/contract',
     'license': 'AGPL-3',
     'depends': [
         'sale_management',
