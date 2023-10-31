@@ -1206,7 +1206,6 @@ msgstr ""
 
 #. module: contract
 #: model:ir.model.fields,help:contract.field_contract_contract__message_has_error
-#: model:ir.model.fields,help:contract.field_contract_contract__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
 msgstr ""
 
@@ -1713,7 +1712,7 @@ msgstr ""
 #: code:addons/contract/models/contract.py:0
 #, fuzzy, python-format
 msgid "Please define a %s journal for the company '%s'."
-msgstr "Lütfen '%s' şirketi için bir satış yevmiyesi tanımlayın."
+msgstr "Lütfen '%s' şirketi için bir satış yevmiyesi tanımlayın %s."
 
 #. module: contract
 #: model:ir.model.fields,field_description:contract.field_contract_contract__access_url
@@ -1897,11 +1896,6 @@ msgstr ""
 #. module: contract
 #: model:ir.model.fields,field_description:contract.field_contract_contract__activity_user_id
 msgid "Responsible User"
-msgstr ""
-
-#. module: contract
-#: model:ir.model.fields,field_description:contract.field_contract_contract__message_has_sms_error
-msgid "SMS Delivery error"
 msgstr ""
 
 #. module: contract
