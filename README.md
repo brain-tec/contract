@@ -23,9 +23,9 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [agreement_rebate_partner_company_group](agreement_rebate_partner_company_group/) | 18.0.1.0.0 |  | Rebate agreements applied to all company group members
-[contract](contract/) | 18.0.3.0.0 |  | Recurring - Contracts Management
+[contract](contract/) | 18.0.4.0.1 |  | Recurring - Contracts Management
 [contract_analytic_tag](contract_analytic_tag/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Contract Analytic Tag
-[contract_forecast](contract_forecast/) | 18.0.1.0.2 | <a href='https://github.com/sbejaoui'><img src='https://github.com/sbejaoui.png' width='32' height='32' style='border-radius:50%;' alt='sbejaoui'/></a> | Contract Forecast
+[contract_forecast](contract_forecast/) | 18.0.1.1.0 | <a href='https://github.com/sbejaoui'><img src='https://github.com/sbejaoui.png' width='32' height='32' style='border-radius:50%;' alt='sbejaoui'/></a> | Contract Forecast
 [contract_forecast_variable_quantity](contract_forecast_variable_quantity/) | 18.0.1.0.0 |  | Contract Forecast Variable Quantity
 [contract_invoice_auto_validate](contract_invoice_auto_validate/) | 18.0.1.0.1 | <a href='https://github.com/sbejaoui'><img src='https://github.com/sbejaoui.png' width='32' height='32' style='border-radius:50%;' alt='sbejaoui'/></a> | This addon auto-validate invoices after its creation from a contract
 [contract_invoice_force_date](contract_invoice_force_date/) | 18.0.1.0.0 |  | Choose invoicing date when manually invoicing contracts
@@ -39,7 +39,7 @@ addon | version | maintainers | summary
 [contract_mandate](contract_mandate/) | 18.0.1.0.0 |  | Mandate in contracts and their invoices
 [contract_payment_mode](contract_payment_mode/) | 18.0.1.0.0 |  | Payment mode in contracts and their invoices
 [contract_price_revision](contract_price_revision/) | 18.0.1.0.0 | <a href='https://github.com/carlosdauden'><img src='https://github.com/carlosdauden.png' width='32' height='32' style='border-radius:50%;' alt='carlosdauden'/></a> | Easy revision of contract prices
-[contract_queue_job](contract_queue_job/) | 18.0.1.0.0 | <a href='https://github.com/sbejaoui'><img src='https://github.com/sbejaoui.png' width='32' height='32' style='border-radius:50%;' alt='sbejaoui'/></a> <a href='https://github.com/BurkhalterY'><img src='https://github.com/BurkhalterY.png' width='32' height='32' style='border-radius:50%;' alt='BurkhalterY'/></a> | This addon make contract invoicing cron plan each contract in a job instead of creating all invoices in one transaction
+[contract_queue_job](contract_queue_job/) | 18.0.1.1.0 | <a href='https://github.com/sbejaoui'><img src='https://github.com/sbejaoui.png' width='32' height='32' style='border-radius:50%;' alt='sbejaoui'/></a> <a href='https://github.com/BurkhalterY'><img src='https://github.com/BurkhalterY.png' width='32' height='32' style='border-radius:50%;' alt='BurkhalterY'/></a> | This addon make contract invoicing cron plan each contract in a job instead of creating all invoices in one transaction
 [contract_refund_on_stop](contract_refund_on_stop/) | 18.0.1.0.1 | <a href='https://github.com/sbejaoui'><img src='https://github.com/sbejaoui.png' width='32' height='32' style='border-radius:50%;' alt='sbejaoui'/></a> | Contract Refund On Stop
 [contract_sale](contract_sale/) | 18.0.1.0.0 |  | Contract from Sale
 [contract_sale_generation](contract_sale_generation/) | 18.0.1.0.3 |  | Contracts Management - Recurring Sales
@@ -60,7 +60,7 @@ addon | version | maintainers | summary
 [product_contract_recurrence_in_price](product_contract_recurrence_in_price/) | 18.0.1.0.0 |  | Add an option to include the recurrences in the total of a Sale Order Line.
 [product_contract_section](product_contract_section/) | 18.0.1.0.0 |  | Propagate sale order sections and notes to generated contracts
 [product_contract_variable_quantity](product_contract_variable_quantity/) | 18.0.1.0.1 |  | Product contract with variable quantity
-[subscription_oca](subscription_oca/) | 18.0.1.1.0 |  | Generate recurring invoices.
+[subscription_oca](subscription_oca/) | 18.0.1.2.0 |  | Generate recurring invoices.
 
 [//]: # (end addons)
 
