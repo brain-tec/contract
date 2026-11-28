@@ -21,6 +21,11 @@ msgstr ""
 "X-Generator: Weblate 2026.11.2\n"
 
 #. module: contract
+#: model:ir.actions.report,print_report_name:contract.report_contract
+msgid "(object._get_report_base_filename())"
+msgstr ""
+
+#. module: contract
 #: model:mail.template,body_html:contract.email_contract_template
 msgid ""
 "<div style=\"font-family: 'Lucida Grande', Ubuntu, Arial, Verdana, sans-"
@@ -517,6 +522,12 @@ msgstr "Pogodba"
 #: model_terms:ir.ui.view,arch_db:contract.portal_my_contracts
 msgid "Contract #"
 msgstr "Št. pogodb"
+
+#. module: contract
+#. odoo-python
+#: code:addons/contract/models/contract.py:0
+msgid "Contract - %(name)s"
+msgstr ""
 
 #. module: contract
 #: model:ir.model,name:contract.model_contract_line
@@ -1517,6 +1528,11 @@ msgid "Quarter(s)"
 msgstr "Četrtletje(i)"
 
 #. module: contract
+#: model:ir.model.fields,field_description:contract.field_contract_contract__rating_ids
+msgid "Ratings"
+msgstr "Ocene"
+
+#. module: contract
 #: model:ir.model.fields,field_description:contract.field_contract_contract__recurring_rule_type
 #: model:ir.model.fields,field_description:contract.field_contract_line__recurring_rule_type
 #: model:ir.model.fields,field_description:contract.field_contract_recurring_mixin__recurring_rule_type
@@ -2099,9 +2115,6 @@ msgstr ""
 
 #~ msgid "Group By..."
 #~ msgstr "Združi po..."
-
-#~ msgid "Ratings"
-#~ msgstr "Ocene"
 
 #~ msgid "Last Modified on"
 #~ msgstr "Zadnjič spremenjeno"
